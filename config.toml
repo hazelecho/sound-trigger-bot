@@ -141,3 +141,8 @@ files = [ "shining/you-like-lamb-doc.mp3" ]
 name = "frenchfries"
 aliases = []
 files = [ "shining/french-fries-and-ketchup.mp3" ]
+
+[[sounds]]
+name = "jumpscare"
+aliases = [ "jumpscare", "jump" ]
+files = [ "scary jumpscare.mp3" ] 
